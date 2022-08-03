@@ -1,0 +1,15 @@
+C:\xaker\Example001_HelloConsile\bin\Debug\net6.0\Example001_HelloConsile.exe
+C:\xaker\Example001_HelloConsile\bin\Debug\net6.0\Example001_HelloConsile.deps.json
+C:\xaker\Example001_HelloConsile\bin\Debug\net6.0\Example001_HelloConsile.runtimeconfig.json
+C:\xaker\Example001_HelloConsile\bin\Debug\net6.0\Example001_HelloConsile.dll
+C:\xaker\Example001_HelloConsile\bin\Debug\net6.0\Example001_HelloConsile.pdb
+C:\xaker\Example001_HelloConsile\obj\Debug\net6.0\Example001_HelloConsile.csproj.AssemblyReference.cache
+C:\xaker\Example001_HelloConsile\obj\Debug\net6.0\Example001_HelloConsile.GeneratedMSBuildEditorConfig.editorconfig
+C:\xaker\Example001_HelloConsile\obj\Debug\net6.0\Example001_HelloConsile.AssemblyInfoInputs.cache
+C:\xaker\Example001_HelloConsile\obj\Debug\net6.0\Example001_HelloConsile.AssemblyInfo.cs
+C:\xaker\Example001_HelloConsile\obj\Debug\net6.0\Example001_HelloConsile.csproj.CoreCompileInputs.cache
+C:\xaker\Example001_HelloConsile\obj\Debug\net6.0\Example001_HelloConsile.dll
+C:\xaker\Example001_HelloConsile\obj\Debug\net6.0\refint\Example001_HelloConsile.dll
+C:\xaker\Example001_HelloConsile\obj\Debug\net6.0\Example001_HelloConsile.pdb
+C:\xaker\Example001_HelloConsile\obj\Debug\net6.0\Example001_HelloConsile.genruntimeconfig.cache
+C:\xaker\Example001_HelloConsile\obj\Debug\net6.0\ref\Example001_HelloConsile.dll
